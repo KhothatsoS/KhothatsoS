@@ -7,7 +7,7 @@
 <h3 align="center">Front-End Web Developer | Problem Solver | Tech for Impact</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1SiKTXBjTuS7GEBPGvLynQUsQi-yRRmVI" alt="Khothatso Sibasa" width="150" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/211488278?s=400&u=a125320a5d6b16eef279d9aaafb0a5e3b0718707&v=4" alt="Khothatso Sibasa" width="150" style="border-radius:50%">
 </p>
 
 <p align="center">
