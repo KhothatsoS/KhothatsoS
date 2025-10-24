@@ -47,16 +47,17 @@ I am especially interested in:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects — Coming Soon
 
 <p align="center">
-  <a href="https://github.com/KhothatsoS/SkillsBridge">
-    <img src="https://via.placeholder.com/250x150" width="250" alt="SkillsBridge Project"><strong>Coming Soon</strong>
-  </a>
-  <a href="https://github.com/KhothatsoS/Orphan-Alert-App">
-    <img src="https://via.placeholder.com/250x150" width="250" alt="Orphan Alert App Project"><strong>Coming Soon</strong>
-  </a>
+  <img src="https://img.shields.io/badge/SkillsBridge-Coming%20Soon-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Orphan%20Alert%20App-Coming%20Soon-brightgreen?style=for-the-badge">
 </p>
+
+<p align="center">
+  I’m currently building impact-driven solutions that empower communities and support youth employment. Stay tuned for launches!
+</p>
+
 
 <p align="center">
   <b>SkillsBridge:</b> Connecting skilled individuals with employment opportunities.<br>
