@@ -51,7 +51,7 @@ I am especially interested in:
 
 <p align="center">
   <img src="https://img.shields.io/badge/SkillsBridge-Coming%20Soon-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Orphan%20Alert%20App-Coming%20Soon-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Haven%20Connect%20App-Coming%20Soon-brightgreen?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -60,8 +60,8 @@ I am especially interested in:
 
 
 <p align="center">
-  <b>SkillsBridge:</b> Connecting skilled individuals with employment opportunities.<br>
-  <b>Orphan Alert App:</b> Alerts relevant parties to orphaned or abandoned children for timely intervention.
+  <b>SkillsBridge:</b> A mobile-first learning and job-readiness app designed for South African youth. It connects young people to essential skills training, freelance opportunities, and mentorship to help them become self-reliant and future-ready.<br>
+  <b>Orphan Alert App:</b> A tech-powered safety and reporting platform for abandoned or at-risk children in South Africa. It enables community members and authorities to respond faster, improve tracking, and ensure that every child receives timely protection and care.
 </p>
 
 ---
